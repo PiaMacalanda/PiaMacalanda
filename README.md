@@ -5,7 +5,7 @@ I am passionate about coding and have a strong background in database management
 ## Education
 - *BS Computer Science*
   - New Era University
-  - 2021-Present
+  - 2022-Present
 
 ## Certifications
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](Certification_Link_1)
