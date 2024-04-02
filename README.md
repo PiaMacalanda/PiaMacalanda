@@ -14,9 +14,9 @@ I am passionate about coding and have a strong background in database management
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/6d9798cf897643ca9e53305a7bdb9bb7)
 
 ## Skill Sets
-- *Programming:* Java, JavaScript, CSS
+- *Programming:* Java, JavaScript, CSS, HTML
 - *Databases:* IBM DB2 Cloud
-- *Tools:* Lucidchart, Jaspersoft Studio, Eclipse, HTML, Visual Studio Code
+- *Tools:* Lucidchart, Jaspersoft Studio, Eclipse, Visual Studio Code, IntelliJ
 
 ## Connect with Me
 - LinkedIn: [LinkedIn Profile](LinkedIn_Profile_Link)
