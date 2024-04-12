@@ -19,5 +19,5 @@ I am passionate about coding and have a strong background in database management
 - *Tools:* Lucidchart, Jaspersoft Studio, Eclipse, Visual Studio Code, IntelliJ
 
 ## Connect with Me
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pia-katleya-macalanda-8a97252a2/)
+- LinkedIn: [Pia V. Macalanda](https://www.linkedin.com/in/pia-katleya-macalanda-8a97252a2/)
 - Email: piav.macalanda@gmail.com
