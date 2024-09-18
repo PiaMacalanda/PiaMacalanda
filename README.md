@@ -22,9 +22,9 @@ I am passionate about coding and have a strong background in database management
 
 ## GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piamacalanda&" alt="piamacalanda" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PiaMacalanda&theme=onedark&border_radius=25" alt="GitHub Streak" /></a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piamacalanda&show_icons=true&locale=en&layout=compact&theme=flag-india" alt="piamacalanda" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piamacalanda&show_icons=true&locale=en&layout=compact&theme=onedark&border_radius=25" alt="piamacalanda" /></p>
 
 ## Connect with Me
 - LinkedIn: [Pia V. Macalanda](https://www.linkedin.com/in/pia-katleya-macalanda-8a97252a2/)
