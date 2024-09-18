@@ -24,18 +24,14 @@ I am passionate about coding and have a strong background in database management
 - LinkedIn: [Pia V. Macalanda](https://www.linkedin.com/in/pia-katleya-macalanda-8a97252a2/)
 - Email: piav.macalanda@gmail.com
 
-
 ## My Contributions
 <div align="center">
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div>
 
 ## GitHub Stats
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PiaMacalanda&theme=onedark&border_radius=25" alt="GitHub Streak" /></a>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piamacalanda&show_icons=true&locale=en&layout=compact&theme=onedark&border_radius=25" alt="piamacalanda" /></p>
 
 
