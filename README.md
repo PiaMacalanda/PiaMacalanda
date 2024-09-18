@@ -20,12 +20,23 @@ I am passionate about coding and have a strong background in database management
 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a>   <a href="https://www.lucidchart.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/lucidchart/lucidchart-icon.svg" alt="lucidchart" width="30" height="30"/> </a> </p>
 
-## GitHub Stats
+## Connect with Me
+- LinkedIn: [Pia V. Macalanda](https://www.linkedin.com/in/pia-katleya-macalanda-8a97252a2/)
+- Email: piav.macalanda@gmail.com
 
+
+## My Contributions
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+## GitHub Stats
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PiaMacalanda&theme=onedark&border_radius=25" alt="GitHub Streak" /></a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piamacalanda&show_icons=true&locale=en&layout=compact&theme=onedark&border_radius=25" alt="piamacalanda" /></p>
 
-## Connect with Me
-- LinkedIn: [Pia V. Macalanda](https://www.linkedin.com/in/pia-katleya-macalanda-8a97252a2/)
-- Email: piav.macalanda@gmail.com
+
+
