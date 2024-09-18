@@ -1,6 +1,6 @@
 # Hi, I'm Pia Katleya Macalanda! ૮꒰ ˶• ༝ •˶꒱ა ♡ 🌿🦋🧺🍄🤍
 
-I am passionate about coding and have a strong background in database management. I enjoy tackling complex problems and crafting elegant solutions. My journey in the tech world began with the BS Computer Science program. ⸜(｡˃ ᵕ ˂ )⸝⋆˙⟡♡
+I am passionate about coding and have a strong background in database management. I enjoy tackling complex problems and crafting elegant solutions. My journey in the tech world began with the BS Computer Science program. ᡣ˶ᵔ ᵕ ᵔ˶𐭩 ♡
 
 ## Education
 - *BS Computer Science*
