@@ -5,7 +5,7 @@ I am passionate about coding and have a strong background in database management
 <br/>
 
 ## 🎓 Education
-- *BS Computer Science*
+- *Bachelor of Science in Computer Science*
   - New Era University
   - 2022-Present
 
