@@ -18,6 +18,11 @@ I am passionate about coding and have a strong background in database management
 - *Databases:* IBM DB2 Cloud
 - *Tools:* Lucidchart, Jaspersoft Studio, Eclipse, Visual Studio Code, IntelliJ
 
+##
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiaMacalanda&show_icons=true&hide=stars&theme=flag-india)
+
 ## Connect with Me
 - LinkedIn: [Pia V. Macalanda](https://www.linkedin.com/in/pia-katleya-macalanda-8a97252a2/)
 - Email: piav.macalanda@gmail.com
+
+
