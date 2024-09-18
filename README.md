@@ -34,7 +34,7 @@ I am passionate about coding and have a strong background in database management
 
 ## 🌱 My Contributions
 <p align="center"> 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> 
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PiaMacalanda/PiaMacalanda/output/github-contribution-grid-snake.svg" /> 
 </p>
 
 <br/>
