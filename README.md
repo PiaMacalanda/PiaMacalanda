@@ -1,7 +1,6 @@
 # Hi, I'm Pia Katleya Macalanda!🌿🦋🧺🍄🤍
 
 I am passionate about coding and have a strong background in database management. I enjoy tackling complex problems and crafting elegant solutions. My journey in the tech world began with the BS Computer Science program. ᡣ˶ᵔ ᵕ ᵔ˶𐭩 ♡
-
 <br/>
 
 ## 🎓 Education
@@ -26,7 +25,7 @@ I am passionate about coding and have a strong background in database management
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,ae,au,css,figma,html,idea,ai,java,ps,pr,robloxstudio,sublime,js, python, typescript, node.js, react" />
+    <img src="https://skillicons.dev/icons?i=git,ae,au,css,figma,html,idea,ai,java,ps,pr,robloxstudio,sublime,js, py, ts, MySQL, nodejs, py, react, vite " />
   </a>
 </p>
 
