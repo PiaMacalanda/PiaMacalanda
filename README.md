@@ -25,7 +25,7 @@ I am passionate about coding and have a strong background in database management
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,ae,au,css,figma,html,idea,ai,java,ps,pr,robloxstudio,sublime,js,py,ts,mysql,nodejs,react,vite " />
+    <img src="https://skillicons.dev/icons?i=git,ae,au,css,figma,html,idea,ai,java,ps,pr,robloxstudio,sublime,js,py,ts,mysql,nodejs,react,vite,PHP,laragon,bootstrap,tailwind " />
   </a>
 </p>
 
