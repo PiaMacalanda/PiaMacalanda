@@ -19,6 +19,7 @@ I am passionate about coding and have a strong background in database management
 - [Software Engineering Masterclass: Navigating the Career Path in 2025](https://xaltius.learner.adroit-lms.com/public/certificate?cid=53fda6f5-de7b-40cc-b164-1b5ea142d1d7)
 - [Canva AI in the Classroom](https://www.canva.com/design-school/certification-award/ae3e14dc-5d73-41bb-b327-44ad2635b7eb)
 - [The Field Guide to Human-Centered Design](https://www.canva.com/design-school/certification-award/457146b8-1943-4c64-b7b2-ca9d539076c5?)
+- [Canva Graphic Design Essentials](https://www.canva.com/design-school/certification-award/47070691-eb4a-4138-908e-2bf0a20203fc?)
 <br/>
 
 ## 💻 Skill Sets
