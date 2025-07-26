@@ -16,7 +16,7 @@ I am passionate about coding and have a strong background in database management
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1E2BF9A1E3318936F33757288693A391543A50CA1C18906EA7AA131D174548F2)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/6d9798cf897643ca9e53305a7bdb9bb7)
 - [Software Engineering Masterclass: Navigating the Career Path in 2025](https://xaltius.learner.adroit-lms.com/public/certificate?cid=53fda6f5-de7b-40cc-b164-1b5ea142d1d7)
-
+- [Canva AI in the Classroom](https://www.canva.com/design-school/certification-award/ae3e14dc-5d73-41bb-b327-44ad2635b7eb)
 <br/>
 
 ## 💻 Skill Sets
