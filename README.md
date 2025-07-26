@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/rAm0u2k17rM3e/giphy.gif" alt="Pokémon GIF" />
-</p>
-
 # Hi, I'm Pia Katleya Macalanda!🌿🦋🧺🍄🤍
 
 I am passionate about coding and have a strong background in database management. I enjoy tackling complex problems and crafting elegant solutions. My journey in the tech world began with the BS Computer Science program. ᡣ˶ᵔ ᵕ ᵔ˶𐭩 ♡
