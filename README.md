@@ -20,6 +20,7 @@ I am passionate about coding and have a strong background in database management
 - [Canva AI in the Classroom](https://www.canva.com/design-school/certification-award/ae3e14dc-5d73-41bb-b327-44ad2635b7eb)
 - [The Field Guide to Human-Centered Design](https://www.canva.com/design-school/certification-award/457146b8-1943-4c64-b7b2-ca9d539076c5?)
 - [Canva Graphic Design Essentials](https://www.canva.com/design-school/certification-award/47070691-eb4a-4138-908e-2bf0a20203fc?)
+- [Canva Essentials](https://www.canva.com/design-school/certification-award/8b41e75b-2877-45f8-beb4-bfbf0fb73dcb?)
 <br/>
 
 ## 💻 Skill Sets
