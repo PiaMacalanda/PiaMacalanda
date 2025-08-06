@@ -1,5 +1,3 @@
-<!-- README.md -->
-
 <h1 align="center">
   ⌗ Hi, I'm Pia! ₊˚⊹♡
 </h1>
@@ -33,18 +31,27 @@
 
 ## ❁ Skill Sets
 
-**Programming:**  
-‣ Java • JavaScript • TypeScript • HTML • CSS
+**Languages & Web:**  
+‣ Java • JavaScript • TypeScript • Python • HTML • CSS • PHP
 
-**Databases:**  
-‣ IBM DB2 Cloud • MySQL • Supabase
+**Frameworks & Tools:**  
+‣ React • Node.js • Vite • Firebase • Supabase • MySQL • Bootstrap • Tailwind
 
-**Tools:**  
-‣ VS Code • IntelliJ • Lucidchart • Figma  
-‣ Jaspersoft Studio • Roblox Studio • Adobe Suite
+**UX/UI & Mobile:**  
+‣ Figma designs → React Native apps using Expo  
+‣ Built mobile-friendly UIs with TypeScript + CSS  
+‣ Human-centered design with Figma, Canva & prototyping tools
+
+**Workflows:**  
+‣ Scrum Master in Agile sprints using GitHub Projects & Jira</br>
+‣ Visualized systems in Lucidchart  
+‣ Data analysis using Python in Google Colab
+
+**Dev Tools:**  
+‣ VS Code • IntelliJ • Adobe Suite • Jaspersoft • Roblox Studio • PowerShell 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,ae,au,npm,powershell,html,css,figma,idea,ai,java,ps,pr,robloxstudio,sublime,js,py,ts,mysql,supabase,nodejs,react,vite,php,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=git,ae,au,npm,powershell,html,css,figma,idea,ai,java,ps,pr,robloxstudio,sublime,js,py,ts,mysql,supabase,nodejs,react,vite,php,bootstrap,tailwind,firebase,colab,github" />
 </p>
 
 ---
