@@ -4,7 +4,7 @@
 
 <p align="center">
   ⋆｡˚ ☁︎ Coding Enthusiast • UX/UI Designer-in-Progress • Database Analyst ☁︎ ˚｡⋆<br/>
-  “Crafting elegant solutions to complex problems since 2022.” <br/>
+  “Crafting elegant solutions to complex problems since 20**.” <br/>
   ₊˚ʚ ᗢ₊˚⊹ BS Computer Science @ New Era University
 </p>
 
