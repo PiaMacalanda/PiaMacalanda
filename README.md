@@ -26,6 +26,7 @@
 - [The Field Guide to Human-Centered Design](https://www.canva.com/design-school/certification-award/457146b8-1943-4c64-b7b2-ca9d539076c5?)
 - [Canva Graphic Design Essentials](https://www.canva.com/design-school/certification-award/47070691-eb4a-4138-908e-2bf0a20203fc?)
 - [Canva Essentials](https://www.canva.com/design-school/certification-award/8b41e75b-2877-45f8-beb4-bfbf0fb73dcb?)
+- [CISCO Introduction to Data Science](https://www.credly.com/badges/35ef9f22-9178-446c-9d95-7b945acead87/public_url)
 
 ---
 
