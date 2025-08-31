@@ -8,6 +8,12 @@
   ₊˚ʚ ᗢ₊˚⊹ BS Computer Science @ New Era University
 </p>
 
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=PiaMacalanda&color=lightgrey&label=Profile+Views)
+
+</div>
+
 ---
 
 ## ❁ Education
