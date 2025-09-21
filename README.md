@@ -33,6 +33,8 @@
 - [Canva Graphic Design Essentials](https://www.canva.com/design-school/certification-award/47070691-eb4a-4138-908e-2bf0a20203fc?)
 - [Canva Essentials](https://www.canva.com/design-school/certification-award/8b41e75b-2877-45f8-beb4-bfbf0fb73dcb?)
 - [CISCO Introduction to Data Science](https://www.credly.com/badges/35ef9f22-9178-446c-9d95-7b945acead87/public_url)
+- [Analyze Website Visitors with Google Analytics Segments](https://coursera.org/share/f678aaa5b8bb0445a1a9028680912d41)
+- [Getting Started in Google Analytics](https://coursera.org/share/5c404efa26575484bf2bfe60fc247708)
 
 ---
 
