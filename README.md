@@ -35,6 +35,7 @@
 - [CISCO Introduction to Data Science](https://www.credly.com/badges/35ef9f22-9178-446c-9d95-7b945acead87/public_url)
 - [Analyze Website Visitors with Google Analytics Segments](https://coursera.org/share/f678aaa5b8bb0445a1a9028680912d41)
 - [Getting Started in Google Analytics](https://coursera.org/share/5c404efa26575484bf2bfe60fc247708)
+- [Canva Work Samrter with AI](https://www.canva.com/design-school/certification-award/726f3980-3bb6-4fca-9b2f-952504074d4b)
 
 ---
 
