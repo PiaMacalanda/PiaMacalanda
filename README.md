@@ -36,6 +36,7 @@
 - [Analyze Website Visitors with Google Analytics Segments](https://coursera.org/share/f678aaa5b8bb0445a1a9028680912d41)
 - [Getting Started in Google Analytics](https://coursera.org/share/5c404efa26575484bf2bfe60fc247708)
 - [Canva Work Samrter with AI](https://www.canva.com/design-school/certification-award/726f3980-3bb6-4fca-9b2f-952504074d4b)
+- [AI Fluency: Framework & Foundations](http://verify.skilljar.com/c/yneegmnvdkzq)
 
 ---
 
