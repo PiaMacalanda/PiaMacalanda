@@ -18,7 +18,7 @@
 
 ## ❁ Education
 - **Bachelor of Science in Computer Science**  
-  ✦ New Era University (2022 — Present)
+  ✦ New Era University (20** — 20**)
 
 ---
 
